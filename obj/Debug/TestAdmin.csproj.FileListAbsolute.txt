@@ -1,0 +1,10 @@
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestAdmin\bin\Debug\TestAdmin.exe.config
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestAdmin\bin\Debug\TestAdmin.exe
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestAdmin\bin\Debug\TestAdmin.pdb
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestAdmin\bin\Debug\WebDriver.dll
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestAdmin\bin\Debug\WebDriver.Support.dll
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestAdmin\bin\Debug\WebDriver.xml
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestAdmin\bin\Debug\WebDriver.Support.xml
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestAdmin\obj\Debug\TestAdmin.csprojResolveAssemblyReference.cache
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestAdmin\obj\Debug\TestAdmin.exe
+c:\users\rvargasg-dv04\documents\visual studio 2015\Projects\TestAdmin\TestAdmin\obj\Debug\TestAdmin.pdb
